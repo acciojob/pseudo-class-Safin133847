@@ -11,7 +11,7 @@
     position: absolute; 
     top: -30px;
     left: 0; 
-
+}
 #container::after {
     content: "After Text";
     color: #f00;
