@@ -6,7 +6,7 @@
 }
 
 #container::before {
-    content: "Before Text"; /* Text to display before the container */
+    content: "Before Element"; /* Updated text to match the test */
     color: #f00; /* Red color */
     font-size: 20px; /* Font size */
     display: block; /* Make it a block element */
@@ -14,7 +14,7 @@
 }
 
 #container::after {
-    content: "After Element"; /* Updated text to match the test */
+    content: "After Element"; /* Keep this as updated from previous fix */
     color: #f00; /* Red color */
     font-size: 20px; /* Font size */
     display: block; /* Make it a block element */
