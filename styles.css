@@ -14,7 +14,7 @@
 }
 
 #container::after {
-    content: "After Text"; /* Text to display after the container */
+    content: "After Element"; /* Updated text to match the test */
     color: #f00; /* Red color */
     font-size: 20px; /* Font size */
     display: block; /* Make it a block element */
